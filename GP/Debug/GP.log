@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+s:\uni 2nd year\graphics programming\coursework_project\gp\input.h(25): warning C4091: 'typedef ': ignored on left of 'Input::Mouse' when no variable is declared
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(29): warning C4305: '=': truncation from 'double' to 'float'
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(159): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(160): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(163): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(164): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(184): warning C4305: 'initializing': truncation from 'double' to 'float'
+s:\uni 2nd year\graphics programming\coursework_project\gp\camera.cpp(187): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  GP.vcxproj -> S:\Uni 2nd Year\Graphics Programming\Coursework_Project\Debug\GP.exe
